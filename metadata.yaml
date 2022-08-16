@@ -1,0 +1,24 @@
+_repo: Nuoren-opettajattaren-varaventtiili_68661
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Valtonen, Hilja
+    gutenberg_agent_id: '54890'
+    url: http://www.gutenberg.org/2009/agents/54890
+description: ''
+gutenberg_issued: '2022-07-31'
+identifiers:
+  gutenberg: '68661'
+language: fi
+pgterms:marc905: 20220529082957valtonen
+pgterms:marc906: '1926'
+pgterms:marc907: FI
+production_note: Tuula Temonen
+publication_note: Finland :Otava,1926,reprint 1974.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Nuoren opettajattaren varaventtiili
+url: http://www.gutenberg.org/ebooks/68661
