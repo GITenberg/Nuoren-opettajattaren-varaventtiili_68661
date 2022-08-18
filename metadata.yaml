@@ -1,11 +1,16 @@
 _repo: Nuoren-opettajattaren-varaventtiili_68661
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Valtonen, Hilja
     gutenberg_agent_id: '54890'
     url: http://www.gutenberg.org/2009/agents/54890
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/68661#Nuoren-opettajattaren-varaventtiili
 gutenberg_issued: '2022-07-31'
 identifiers:
   gutenberg: '68661'
